@@ -1,2 +1,2 @@
 ALTER TABLE Users
-DROP Birthday;
+DROP COLUMN Birthday;

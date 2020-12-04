@@ -1,3 +1,3 @@
  //Drops the whole table
- drop table Users;
+ DROP TABLE Users;
 
