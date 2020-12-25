@@ -1,0 +1,1 @@
+UPDATE students set city="Edinburgh";
